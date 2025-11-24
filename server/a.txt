@@ -1,0 +1,9 @@
+//json
+{
+    "name":"abhinav"
+    "age":"21"
+}
+//js obect
+{
+    name:"abhinav"
+}
